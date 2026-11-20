@@ -1,0 +1,14 @@
+FONDOPOSTE - WEB APP PER IPHONE
+
+Questa cartella contiene una PWA (Progressive Web App). Per installarla come app vera e propria sulla schermata Home di iPhone, i file devono essere pubblicati su un indirizzo HTTPS.
+
+PASSAGGI:
+1. Pubblica tutti i file e le cartelle di questo pacchetto su un hosting statico HTTPS (ad esempio GitHub Pages o Netlify).
+2. Apri l'indirizzo HTTPS ottenuto con Safari su iPhone.
+3. Tocca Condividi (quadrato con freccia verso l'alto).
+4. Scegli "Aggiungi alla schermata Home".
+5. Conferma con "Aggiungi". L'icona Fondoposte comparirà sulla Home e si aprirà a schermo intero.
+
+Dopo la prima apertura, il simulatore può essere usato anche offline grazie alla cache locale.
+
+NOTA: il pacchetto non è ancora pubblicato online. Il file ZIP da solo non crea un indirizzo web e iOS non installa una PWA direttamente da un file HTML locale.
